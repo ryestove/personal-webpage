@@ -1,0 +1,10 @@
+{
+    "name": "personal-webpage",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "echo 'No build process required yet!'",
+      "build": "echo 'Future build process will be added here!'"
+    },
+    "devDependencies": {}
+  }
+  
